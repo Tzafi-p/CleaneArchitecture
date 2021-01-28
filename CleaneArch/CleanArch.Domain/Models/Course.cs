@@ -1,0 +1,15 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Text;
+
+namespace CleaneArch.Domain.Models
+{
+    public class Course
+    {
+         public int ID { get; set; }
+
+        public string Name { get; set; }
+        public string  Description { get; set; }
+        public string ImgeURL { get; set; }
+    }
+}
