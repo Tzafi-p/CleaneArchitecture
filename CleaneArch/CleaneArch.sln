@@ -27,7 +27,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "API", "API", "{E5207E7A-48D
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infra.Bus", "Infra.Bus", "{5CD8D914-FFEA-4282-A3FA-4CB34B896294}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "leaneArch.Infra.Bus", "leaneArch.Infra.Bus\leaneArch.Infra.Bus.csproj", "{E4C177B5-995E-4565-8630-167D2B81F67E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CleaneArch.Infra.Bus", "leaneArch.Infra.Bus\CleaneArch.Infra.Bus.csproj", "{E4C177B5-995E-4565-8630-167D2B81F67E}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CleaneArch.Domain.Core", "CleaneArch.Domain.Core\CleaneArch.Domain.Core.csproj", "{7B268C51-9B7C-4F50-BE98-7137080EBA6C}"
 EndProject

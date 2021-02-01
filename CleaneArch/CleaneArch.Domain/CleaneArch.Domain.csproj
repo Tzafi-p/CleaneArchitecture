@@ -17,4 +17,8 @@
     </PackageReference>
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\CleaneArch.Domain.Core\CleaneArch.Domain.Core.csproj" />
+  </ItemGroup>
+
 </Project>
