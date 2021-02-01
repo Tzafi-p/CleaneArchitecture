@@ -23,6 +23,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CleaneArch.Application", "C
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CleaneArch.Infra.IoC", "CleaneArch.Infra.IoC\CleaneArch.Infra.IoC.csproj", "{BF38E98C-1728-4B0B-85E2-EFAA7570C1C1}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infra.Bus", "Infra.Bus", "{D9FA96C5-5EA0-4E3B-A0CE-3E4F157E6D4D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "API", "API", "{E5207E7A-48DB-48AC-AE46-D9D87D9A0DB4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
