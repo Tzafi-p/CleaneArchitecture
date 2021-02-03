@@ -9,6 +9,6 @@ namespace CleaneArch.Application.Interfaces
     {
         CourseViewModel GetCourses();
 
-        void CreateCourse(CourseViewModel courseViewModel);
+        void Create(CourseViewModel courseViewModel);
     }
 }
